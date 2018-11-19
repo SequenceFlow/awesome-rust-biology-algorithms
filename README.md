@@ -11,6 +11,7 @@ A currated list of algorithms implemented in rust for biological analysis.
 * [RustBLAST](https://github.com/OpenGLShaders/RustBLAST)
 * [finch-rs](https://github.com/onecodex/finch-rs)
 * https://github.com/10XGenomics/rust-pseudoaligner
+* https://github.com/10XGenomics/rust-debruijn
 
 ## Uncategorized
 
