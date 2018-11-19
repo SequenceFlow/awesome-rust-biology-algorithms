@@ -15,3 +15,8 @@ A currated list of algorithms implemented in rust for biological analysis.
 ## Uncategorized
 
 * https://github.com/mttmartin/anneal_predictor
+
+
+# See Also...
+
+* https://github.com/rust-unofficial/awesome-rust
