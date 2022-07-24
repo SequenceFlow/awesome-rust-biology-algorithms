@@ -9,9 +9,10 @@ A currated list of algorithms implemented in rust for biological analysis.
 ## Sequence analysis
 
 * [RustBLAST](https://github.com/OpenGLShaders/RustBLAST)
-* [finch-rs](https://github.com/onecodex/finch-rs)
-* https://github.com/10XGenomics/rust-pseudoaligner
-* https://github.com/10XGenomics/rust-debruijn
+* [onecodex/finch-rs](https://github.com/onecodex/finch-rs)
+* [10XGenomics/rust-pseudoaligner](https://github.com/10XGenomics/rust-pseudoaligner)
+* [rust-debruijn](https://github.com/10XGenomics/rust-debruijn)
+* [onecodex/needletail](https://github.com/onecodex/needletail) - Fast FASTX parsing and k-mer methods in Rust 
 
 ## Uncategorized
 
